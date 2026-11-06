@@ -50,6 +50,6 @@ After data-quality checks (missing customer IDs, cancellations, postage and fee 
 - k-means needs the number of segments to be chosen; the elbow and silhouette charts guide, but do not decide, that choice.
 
 ## How to run
-Open `Ecommerce_Customer_Analytics.ipynb` in Google Colab and choose **Runtime → Run all** (the data downloads automatically from UCI).
+Open `Ecommerce_Customer_Analytics_Final.ipynb` in Google Colab and choose **Runtime → Run all** (the data downloads automatically from UCI).
 
 *Educational project.*
