@@ -1,0 +1,3 @@
+customer_type,customers,revenue,share_of_customers,share_of_revenue
+One-time,1618,556000.0,0.27648667122351334,0.03257449599755527
+Repeat (2+ orders),4234,16512568.0,0.7235133287764867,0.9674255040024448
